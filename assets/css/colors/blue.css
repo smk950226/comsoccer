@@ -1,0 +1,239 @@
+/*================================
+===========  General  ============
+================================*/
+a:hover, a:focus {
+  color: rgb(195,13,35); }
+
+.theme-color {
+  color: rgb(195,13,35); }
+
+.theme-color-bg {
+  background-color: rgb(195,13,35); }
+
+/*================================
+===========  Section  ============
+================================*/
+.theme-overlay:before {
+  background-color: rgb(195,13,35); }
+
+/*================================
+===========  Headers  ============
+================================*/
+.header .navbar-collapse ul.navbar-nav > li:hover > a, .header .navbar-collapse ul.navbar-nav > li:focus > a, .header .navbar-collapse ul.navbar-nav > li.active > a {
+  color: rgb(195,13,35); }
+.header.header-sticky.sticky .navbar-collapse ul.navbar-nav > li:hover > a, .header.header-sticky.sticky .navbar-collapse ul.navbar-nav > li:focus > a, .header.header-sticky.sticky .navbar-collapse ul.navbar-nav > li.active > a {
+  color: rgb(195,13,35); }
+.header.header-full-screen .fs-nav .fs-nav-item:hover a .fs-nav .fs-nav-item:hover a {
+  background-color: rgb(195,13,35); }
+.header .cart-menu .check-out {
+  background-color: rgb(195,13,35); }
+.header .cart-menu a.check-out:hover {
+  background-color: rgb(195,13,35); }
+
+/*===================================
+===========  Page Title  ============
+===================================*/
+.breadcrumb li a:hover {
+  color: rgb(195,13,35); }
+
+.dark-overlay .breadcrumb li a:hover {
+  color: rgb(195,13,35); }
+
+/*================================
+===========  Loaders  ============
+================================*/
+.loader-wrapper .loader-1:before {
+  border-color: rgb(195,13,35); }
+.loader-wrapper .loader-2 {
+  border-top-color: rgb(195,13,35); }
+
+/*================================
+===========  Buttons  ============
+================================*/
+.btn-theme {
+  background-color: rgb(195,13,35);
+  border-color: rgb(195,13,35); }
+  .btn-theme:hover, .btn-theme:focus {
+    background-color: lighten rgb(195,13,35), 20%; }
+
+.btn-theme-inverse {
+  color: rgb(195,13,35);
+  border-color: rgb(195,13,35); }
+  .btn-theme-inverse:hover, .btn-theme-inverse:focus {
+    background-color: rgb(195,13,35); }
+
+.btn-white:hover, .btn-white:focus,
+.btn-gray:hover,
+.btn-gray:focus {
+  background-color: rgb(195,13,35); }
+
+.btn-white-inverse:hover, .btn-white-inverse:focus {
+  background-color: rgb(195,13,35);
+  border: 2px solid rgb(195,13,35) !important; }
+
+/*================================
+===========  Heading  ============
+================================*/
+.heading-1:after {
+  border-color: rgb(195,13,35); }
+
+/*===============================
+===========  Images  ============
+================================*/
+.img-style-1:before {
+  background-color: #e5f1ff; }
+
+/*========================================
+===========  Features Blocks  ============
+========================================*/
+.features-block-1:hover i {
+  color: rgb(195,13,35); }
+
+.features-block-3:hover i {
+  color: rgb(195,13,35); }
+
+.features-block-5:hover i {
+  color: rgb(195,13,35); }
+
+/*============================
+===========  Tab  ============
+============================*/
+.tab-style-1 li.active .a {
+  color: rgb(195,13,35); }
+.tab-style-1 li.active > a:after {
+  background-color: rgb(195,13,35); }
+.tab-style-1 li a:hover, .tab-style-1 li a:focus {
+  color: rgb(195,13,35); }
+  .tab-style-1 li a:hover:after, .tab-style-1 li a:focus:after {
+    background-color: rgb(195,13,35); }
+
+.tab-style-3.theme-style li {
+  background-color: rgb(195,13,35); }
+  .tab-style-3.theme-style li.active > a {
+    background-color: #5e91f3; }
+  .tab-style-3.theme-style li a:hover, .tab-style-3.theme-style li a:focus {
+    background-color: #4681f2; }
+
+/*lighten 10% */
+.tab-style-3.theme-style li.active > a {
+  background-color: #5e91f3; }
+
+/* lighten 5% */
+.tab-style-3.theme-style li a:hover,
+.tab-style-3.theme-style li a:focus {
+  background-color: #4681f2; }
+
+.tab-style-4 li.active > a {
+  color: rgb(195,13,35); }
+  .tab-style-4 li.active > a:hover, .tab-style-4 li.active > a:focus {
+    color: rgb(195,13,35); }
+  .tab-style-4 li.active > a:after {
+    background-color: rgb(195,13,35); }
+.tab-style-4 li a:hover, .tab-style-4 li a:focus {
+  color: rgb(195,13,35); }
+  .tab-style-4 li a:hover:after, .tab-style-4 li a:focus:after {
+    background-color: rgb(195,13,35); }
+
+/*==============================
+===========  Team   ============
+==============================*/
+.team-4 ul.team-tab li a:before {
+  background-color: rgb(195,13,35); }
+
+/*=================================
+===========  Pricing   ============
+=================================*/
+.pricing-2 .pricing-table.recommended .pricing-footer .btn {
+  background-color: rgb(195,13,35); }
+
+/*=====================================
+===========  Progess Bar   ============
+=====================================*/
+.progress-wrapper .progress.progress-theme .progress-bar {
+  background-color: rgb(195,13,35); }
+
+/*==================================
+===========  Timeline   ============
+==================================*/
+.timeline ul li:hover
+.timeline ul li.active .timeline-content:before {
+  border-color: rgb(195,13,35); }
+
+/*=============================
+===========  Form  ============
+=============================*/
+input.material-input.theme-color:focus,
+textarea.material-input.theme-color:focus {
+  border-color: rgb(195,13,35); }
+
+.radio.theme-color input[type="radio"]:checked + label:before {
+  border-color: rgb(195,13,35); }
+.radio.theme-color input[type="radio"] + label:after {
+  background-color: rgb(195,13,35); }
+
+.checkbox.theme-color input[type="checkbox"]:checked + label:after {
+  background-color: rgb(195,13,35); }
+
+/*=======================================
+===========  Swiper Slider   ============
+=======================================*/
+.swiper-bullet-1.theme-bullet .swiper-pagination-bullet-active:after {
+  border-color: rgb(195,13,35); }
+
+.theme-bullet .swiper-pagination-bullet-active {
+  background-color: rgb(195,13,35); }
+
+/*===============================
+===========  Widget  ============
+===============================*/
+.widget-news .news-item .news-info .author {
+  color: #5699a9; }
+
+.widget-tags.theme-color ul li a:hover {
+  background-color: rgb(195,13,35); }
+
+/*=====================================
+===========  Blog Default  ============
+=====================================*/
+.blog-default .blog-item .author {
+  color: rgb(195,13,35); }
+.blog-default .blog-item .blog-meta:after {
+  background-color: rgb(195,13,35); }
+
+/*==================================
+===========  Blog grid  ============
+==================================*/
+.blog-grid .blog-item .author {
+  color: rgb(195,13,35); }
+
+/*=====================================
+===========  Blog Classic  ============
+=====================================*/
+.blog-classic .blog-item .blog-content .blog-action a:hover {
+  color: rgb(195,13,35); }
+.blog-classic .blog-item .blog-content .continue-reading:hover {
+  color: rgb(195,13,35); }
+
+/*==================================
+===========  Blog Card  ============
+==================================*/
+.blog-card .blog-item .blog-wrapper .blog-content .blog-action .likes a:hover,
+.blog-card .blog-item .blog-wrapper .blog-content .blog-action .comments a:hover,
+.blog-card .blog-item .blog-wrapper .blog-content .blog-action .share a:hover {
+  color: rgb(195,13,35); }
+.blog-card .blog-item .blog-wrapper .blog-content .blog-action .continue-reading:hover, .blog-card .blog-item .blog-wrapper .blog-content .blog-action .continue-reading:focus {
+  border-color: rgb(195,13,35);
+  background-color: rgb(195,13,35); }
+.blog-card .blog-item .blog-wrapper .blog-content .blog-meta .author,
+.blog-card .blog-item .blog-wrapper .blog-content .blog-meta-alt .author {
+  color: rgb(195,13,35); }
+.blog-card .blog-item .blog-wrapper.theme-color-bg {
+  background-color: rgb(195,13,35); }
+
+/*=========================================
+===========  Blog Single Post  ============
+=========================================*/
+.single-post-cover .blog-meta .author:hover {
+  color: rgb(195,13,35); }
+
+/*# sourceMappingURL=blue.css.map */
